@@ -1,0 +1,20 @@
+baseURL = "http://me.rainyan.net/"
+title = "ライ/raisan"
+theme = "hugo-book"
+
+[author]
+  name = "ライ"
+  bio = "ゆる～くコード書いてます"
+  job = "Web Backend Enginner"
+  location = "Japan"
+  # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
+  gravatarEmail = "yuri@rainyan.net"
+
+[menu]
+  # before: []
+  [after]
+    name = "Github"
+    url = "https://github.com/alex-shpak/hugo-book"
+
+[params]
+  BookLogo = "icon.jpg"
